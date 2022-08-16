@@ -1,4 +1,4 @@
-# coder: https://t.me/saycou
+# coder: https://t.me/DeV_PHPJS
 
 import os
 try:
@@ -19,7 +19,7 @@ R = '\033[31;1m'
 def banner():
 
 	os.system('clear')
-	print (f"""\n\n\n\n                  -   {R}# {W}Coder: Sayco {R}  #   {W}  -\n 	       {R}-{W} ElRaik/facebook.com {R}-\n   {R  }               #{W}   Ù…Ø³Ø§ Ø±Ø§ÙŠÙ‚ Ù…Ø³Ø¨Ø¨ Ø­Ø±Ø§ÙŠÙ‚ðŸ’•ðŸ’—{R} #\n\n""")
+	print (f"""\n\n\n\n                  -   {R}# {W}Coder : Anas Ahmed ( Lucifer ) {R}  #   {W}  -\n 	       {R}-{W} FB.Com/Lucifer.phtml {R}-\n   {R  }               #{W} - Welcome To My DarkSide —{R} #\n\n""")
 	domin = {'1':'Facebook','2':'Instagram','3':'Twitter','4':'Yahoo','5':'Hotmail'}
 	[ print (f"{G}	~{W} {key} {G}-{W} {value} ") for key , value in domin.items() ]
 	return domin
@@ -63,7 +63,7 @@ class checker:
 
 	def Hotmail(sayco):
 
-                url = "https://odc.officeapps.live.com/odc/emailhrd/getidp?hm=0&emailAddress=" + sayco.email + "&_=1604288577990" # From : @xfff0800
+                url = "https://odc.officeapps.live.com/odc/emailhrd/getidp?hm=0&emailAddress=" + sayco.email + "&_=1604288577990" # From : @DeV_PHPJS
                 headers = {
                         "Accept": "*/*",
                         "Content-Type": "application/x-www-form-urlencoded",
